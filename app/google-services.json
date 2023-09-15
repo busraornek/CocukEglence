@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "101556063747",
+    "project_id": "cocukeglence-6a0fe",
+    "storage_bucket": "cocukeglence-6a0fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101556063747:android:4e3f5f1638ea3f8d1c4836",
+        "android_client_info": {
+          "package_name": "com.busraornek.cocukeglence"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqy24Yus-KktTAuCybcx8lVB_zhc85pFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
